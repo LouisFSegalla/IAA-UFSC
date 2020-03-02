@@ -1,3 +1,5 @@
 Programa usado para criar um gráfico mostrando o IAA do aluno ao longo dos semestre. 
 É necessário usar o histórico escolar como arquivo de entrada, o mesmo pode ser obtido por meio do site http://cagr.sistemas.ufsc.br.
-O programa foi feito usando Ubuntu 18.04.4 e Python 3.6.9
+O programa foi feito usando Ubuntu 18.04.4 e Python 3.6.9.
+Será necessário instalar a biblioteca PyPDF3 com o comando:
+  pip3 install PyPDF
